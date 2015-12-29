@@ -13,7 +13,9 @@ Plugin for Sublime text 3 for convert chinese characters.
 
 ## Install
 
-This package is available through <a href="https://packagecontrol.io/">ConvertChineseCharactersFor3</a>, it’s called “ConvertChineseCharactersfor3”.
+This package is available through <a href="https://packagecontrol.io/installation">Package Control</a>, it’s called “ConvertChineseCharactersfor3”.
+
+If you use Sublime Text 2, you can see <a href="https://github.com/stormtea123/ConvertChineseCharactersFor2">ConvertChineseCharactersFor2</a>
 
 ###or manually install
 
