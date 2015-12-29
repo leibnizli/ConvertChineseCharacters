@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Unicode: Chinese Characters To Unicode",
+        "command": "chinese_characters_to_unicode"
+    },
+    {
+        "caption": "Unicode: Unicode To Chinese Characters",
+        "command": "unicode_to_chinese_characters"
+    }
+]

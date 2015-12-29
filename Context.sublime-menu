@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "Convert Chinese Characters",
+        "id": "Convert_chinese_characters",
+        "children":
+        [
+            { "command": "chinese_characters_to_unicode", "caption": "Chinese Characters To Unicode" },
+            { "command": "unicode_to_chinese_characters", "caption": "Unicode To Chinese Characters" }
+        ]
+    }
+]
