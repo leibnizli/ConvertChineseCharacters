@@ -26,3 +26,6 @@ git clone https://github.com/stormtea123/ConvertChineseCharactersFor3.git
 
 Select one or more characters and run "convertChineseCharacters" form the context menu. Each character will be replaced.
 
+# License
+
+MIT
