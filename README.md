@@ -1,6 +1,6 @@
 ##ConvertChineseCharactersFor3
 
-Plugin for Sublime text 3 for convert chinese characters.
+Plugin for Sublime text 3 for convert chinese characters, allowing you to convert your .js, .json, and .css files.
 
 ![1](https://cloud.githubusercontent.com/assets/1193966/12030060/63ded0e2-ae33-11e5-8f76-b9b2cc34e14e.gif)
 
