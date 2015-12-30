@@ -2,6 +2,8 @@
 
 Plugin for Sublime text 3 for convert chinese characters, allowing you to convert your .js, .json, and .css files.
 
+If you use Sublime Text 2, you can see <a href="https://github.com/stormtea123/ConvertChineseCharactersFor2">ConvertChineseCharactersFor2</a>
+
 ![1](https://cloud.githubusercontent.com/assets/1193966/12030060/63ded0e2-ae33-11e5-8f76-b9b2cc34e14e.gif)
 
 ![2](https://cloud.githubusercontent.com/assets/1193966/12030061/63e3fac2-ae33-11e5-9a50-78b9ebf2d6e1.gif)
@@ -13,14 +15,9 @@ Plugin for Sublime text 3 for convert chinese characters, allowing you to conver
 
 ## Install
 
-This package is available through <a href="https://packagecontrol.io/installation">Package Control</a>, it’s called “ConvertChineseCharactersfor3”.
+* Use <a href="https://packagecontrol.io/installation">Package Control</a>: search `ConvertChineseCharactersFor3` and install
+* Clone the source code into your sublime text's package folder
 
-If you use Sublime Text 2, you can see <a href="https://github.com/stormtea123/ConvertChineseCharactersFor2">ConvertChineseCharactersFor2</a>
-
-###or manually install
-
-cd <Packages directory> (for example on Mac it is ~/Library/Application Support/<Sublime Text Version>/Packages)
-git clone https://github.com/stormtea123/ConvertChineseCharactersFor3.git
 
 ## Usage
 
