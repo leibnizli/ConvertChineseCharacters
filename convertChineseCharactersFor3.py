@@ -3,11 +3,27 @@ import sublime, sublime_plugin
 import sys
 import re
 
+
+def resulveSyntaxType(view):
+
+    # 改用语法类型来判断，这样的话临时文件也能该插件
+    syntax = view.settings().get('syntax')
+
+    if syntax == "Packages/JavaScript/JSON.sublime-syntax":
+        fileSuffix = "json"
+    elif syntax == "Packages/JavaScript/JavaScript.sublime-syntax":
+        fileSuffix = "js"
+    elif syntax == "Packages/CSS/CSS.sublime-syntax":
+        fileSuffix = "css"
+
+    return fileSuffix
+
+
 class ChineseCharactersToUnicodeCommand(sublime_plugin.TextCommand):
 
     def run(self, edit):
-        fileName = self.view.file_name()
-        fileSuffix = re.match(r'.+\.(\w+)$',fileName).group(1)
+
+        fileSuffix = resulveSyntaxType(self.view)
         if fileSuffix == "js" or fileSuffix == "json" or fileSuffix == "css":  
             def TU(x):
                 if fileSuffix == "js" or fileSuffix == "json":
@@ -38,8 +54,11 @@ class ChineseCharactersToUnicodeCommand(sublime_plugin.TextCommand):
             
 class UnicodeToChineseCharactersCommand(sublime_plugin.TextCommand):
     def run(self, edit):
-        fileName = self.view.file_name()
-        fileSuffix = re.match(r'.+\.(\w+)$',fileName).group(1)
+        # fileName = self.view.file_name()
+        # fileSuffix = re.match(r'.+\.(\w+)$',fileName).group(1)
+
+        fileSuffix = resulveSyntaxType(self.view)
+
         if fileSuffix == "js" or fileSuffix == "json" or fileSuffix == "css":
             def unicodeTo(x):
                 s = x.group(0)
