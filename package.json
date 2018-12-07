@@ -1,21 +1,10 @@
 {
     "packages": [{
-        "name": "ConvertChineseCharactersFor2",
-        "details": "https://github.com/stormtea123/ConvertChineseCharactersFor2",
-        "description": "Plugin for Sublime text 2 for convert chinese characters.",
-        "homepage": "https://www.w3cmm.com/",
-        "author": "stormtea123",
-        "releases": [{
-            "sublime_text": "<3000",
-            "platforms": ["osx", "windows"],
-            "tags": true
-        }]
-    }, {
         "name": "ConvertChineseCharactersFor3",
-        "details": "https://github.com/stormtea123/ConvertChineseCharactersFor3",
+        "details": "https://github.com/thunkli/ConvertChineseCharactersFor3",
         "description": "Plugin for Sublime text 3 for convert chinese characters.",
-        "homepage": "https://www.w3cmm.com/",
-        "author": "stormtea123",
+        "homepage": "https://github.com/thunkli/ConvertChineseCharactersFor3",
+        "author": "thunkli",
         "releases": [{
             "sublime_text": ">3000",
             "platforms": ["osx", "windows"],
