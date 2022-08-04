@@ -1,6 +1,8 @@
+English | [简体中文](https://gotomorrow.dev/zh-CN/docs/ConvertChineseCharacters)
+
 # ConvertChineseCharacters
 
-Plugin for Sublime text 3 for convert chinese characters, allowing you to convert your .js, .json, and .css files.
+Plugin for Sublime text for convert chinese characters, allowing you to convert your .js, .json, and .css files.
 
 If you use Sublime Text 2, you can see <a href="https://github.com/leibnizli/ConvertChineseCharactersFor2">ConvertChineseCharactersFor2</a>
 
@@ -22,7 +24,3 @@ If you use Sublime Text 2, you can see <a href="https://github.com/leibnizli/Con
 ## Usage
 
 Select one or more characters and run "convertChineseCharacters" form the context menu. Each character will be replaced.
-
-# License
-
-MIT
