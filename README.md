@@ -1,4 +1,4 @@
-English | [简体中文](https://gotomorrow.dev/zh-CN/docs/ConvertChineseCharacters)
+English | [简体中文](./README-zh-CN.md)
 
 # ConvertChineseCharacters
 
