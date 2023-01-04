@@ -1,4 +1,4 @@
-[English](./README.md) | [简体中文]
+[English](./README.md) | 简体中文
 
 # ConvertChineseCharacters
 
@@ -30,5 +30,5 @@ Win/Linux: `ctrl+shift+p`, Mac: `cmd+shift+p`
 
 选择一个或多个字符从上下文菜单运行convertChineseCharacters，每一个字符将会被替换。
 
-* <a href="https://gadgets.gotomorrow.dev/zh-CN/unicode">Unicode编码/Unicode解码/Emoji编码/Emoji解码 - 在线</a>
+* <a href="https://gadgets.arayofsunshine.dev/zh-CN/unicode">Unicode编码/Unicode解码/Emoji编码/Emoji解码 - 在线</a>
 
