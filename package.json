@@ -1,10 +1,10 @@
 {
     "packages": [{
-        "name": "ConvertChineseCharactersFor3",
-        "details": "https://github.com/thunkli/ConvertChineseCharactersFor3",
+        "name": "ConvertChineseCharacters",
+        "details": "https://github.com/leibnizli/ConvertChineseCharacters",
         "description": "Plugin for Sublime text 3 for convert chinese characters.",
-        "homepage": "https://github.com/thunkli/ConvertChineseCharactersFor3",
-        "author": "thunkli",
+        "homepage": "https://github.com/leibnizli/ConvertChineseCharacters",
+        "author": "leibnizli",
         "releases": [{
             "sublime_text": ">3000",
             "platforms": ["osx", "windows"],
