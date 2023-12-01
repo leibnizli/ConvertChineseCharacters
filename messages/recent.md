@@ -2,9 +2,13 @@
 
 New release!
 
-Please see https://arayofsunshine.dev/docs/ConvertChineseCharacters for more info about  
+Please see https://github.com/leibnizli/ConvertChineseCharacters for more info about  
 the release.
 
 ## 1.1.2
 
-- **FIX**: Fix known issues.
+- **Feature**: Add messages.
+
+## More products
+
+https://arayofsunshine.dev
