@@ -8,4 +8,4 @@ For information on how to use, check out the documentation: https://github.com/l
 
 ## More products
 
-https://arayofsunshine.dev
+👋 https://arayofsunshine.dev

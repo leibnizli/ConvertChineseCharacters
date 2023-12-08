@@ -11,4 +11,4 @@ the release.
 
 ## More products
 
-https://arayofsunshine.dev
+👋 https://arayofsunshine.dev
